@@ -35,7 +35,6 @@ ping command is available on Windows as well as on Linux OS. Following is the ex
 ##output
 
 
-<img width="798" height="602" alt="Screenshot 2026-10-30 214451" src="https://github.com/user-attachments/assets/6cb8f103-2e0b-4c09-9b5c-84c689a56a99" />
 
 
 
@@ -43,7 +42,6 @@ ping command is available on Windows as well as on Linux OS. Following is the ex
 get further detail by using ip2location.com website.
 ##output
 
-<img width="798" height="602" alt="Screenshot 2026-10-30 214451" src="https://github.com/user-attachments/assets/a9447e4d-5264-4c08-9856-a49108a4d9cd" />
 
 ## History of the website:
 ## output
@@ -70,7 +68,6 @@ Host: example.com
 ## httprint
 ### output
 
-<img width="788" height="141" alt="Screenshot 2026-10-30 220002" src="https://github.com/user-attachments/assets/ed1eef9f-dbb8-4c7d-bf65-e66fa902d136" />
 
 
 
@@ -84,7 +81,6 @@ sudo traceroute -T www.google.com
 sudo traceroute -U www.google.com
 ## output
 
-<img width="875" height="721" alt="Screenshot 2026-10-30 215833" src="https://github.com/user-attachments/assets/275bda91-acb0-4732-a8cf-5e59bb1a9a97" />
 
 
 ## ICMP Traceroute:
